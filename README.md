@@ -1,7 +1,7 @@
 # Content of Project
 
-* [Task 1: Software setup](#Zadanie-1:-Software-setup)
-* [Setup](#setup)
+* [Task 1: Software setup](#Task-1:-Software-setup)
+* [Task 2: Selectors](Task-2:-Selectors)
 
 
 
@@ -20,6 +20,11 @@ Moim celem jest nauczyć się testowania, poznać tajniki tego zawodu by umieć 
 ##   **Zadanie dla chętnych. Nie samymi testami automatycznymi człowiek żyje.**
 
 Udzielono odpowiedzi dobrze na 6 z 14
+</details>
+
+## Task 2: Selectors
+<details>
+<summary>Click here to see general information about <b>Task</b>!</summary>
 
 
 
