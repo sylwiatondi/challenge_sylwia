@@ -26,9 +26,25 @@ Udzielono odpowiedzi dobrze na 6 z 14
 <details>
 <summary>Click here to see general information about <b>Task</b>!</summary>
 
+##   **Subtask 2: Search for selectors on the login page. List all the elements that are on the login page.**
+1. Login
+  #### //*[@id="login"]
+  #### //*[@id="__next"]/form/div/div[1]/div[1]/div
+  #### #login
+2. Scouts Panel
+  #### //*[@id="__next"]/form/div/div[1]/h5
+  #### #__next > form > div > div.MuiCardContent-root > h5
+3. English
+  #### //*[@id="__next"]/form/div/div[2]/div/div
+  #### #__next > form > div > div.MuiCardActions-root > div > div
+4. Sign in
+  #### //*[@id="__next"]/form/div/div[2]/button/span[1]
+5. Password
+  #### //*[@id="password"]
+6. Remind password
+  #### //*[@id="__next"]/form/div/div[1]/a
 
-
-
+  
 
 
 
