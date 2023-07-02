@@ -31,18 +31,30 @@ Udzielono odpowiedzi dobrze na 6 z 14
   #### //*[@id="login"]
   #### //*[@id="__next"]/form/div/div[1]/div[1]/div
   #### #login
+  #### $x('//*[@id="login"]')
 2. Scouts Panel
   #### //*[@id="__next"]/form/div/div[1]/h5
   #### #__next > form > div > div.MuiCardContent-root > h5
+  #### $x('//*[@id="__next"]/form/div/div[1]/h5')
+  ####  //*[text()="Scouts Panel"]
 3. English
   #### //*[@id="__next"]/form/div/div[2]/div/div
   #### #__next > form > div > div.MuiCardActions-root > div > div
+  #### $x('//*[@id="__next"]/form/div/div[2]/div/div')
+  ####  //*[text()="English"]
 4. Sign in
   #### //*[@id="__next"]/form/div/div[2]/button/span[1]
+  #### $x('//*[@id="__next"]/form/div/div[2]/div/div')
+  #### 	//*[@class="MuiButton-label"]
+  
 5. Password
+  #### //*[@id="password"]
+  #### $x('//*[@id="password"]')
   #### //*[@id="password"]
 6. Remind password
   #### //*[@id="__next"]/form/div/div[1]/a
+  #### $x('//*[@id="__next"]/form/div/div[1]/a')
+  #### //*[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"] 
 
   
 
