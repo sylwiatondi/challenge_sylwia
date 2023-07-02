@@ -46,7 +46,6 @@ Udzielono odpowiedzi dobrze na 6 z 14
   #### //*[@id="__next"]/form/div/div[2]/button/span[1]
   #### $x('//*[@id="__next"]/form/div/div[2]/div/div')
   #### 	//*[@class="MuiButton-label"]
-  
 5. Password
   #### //*[@id="password"]
   #### $x('//*[@id="password"]')
@@ -55,6 +54,7 @@ Udzielono odpowiedzi dobrze na 6 z 14
   #### //*[@id="__next"]/form/div/div[1]/a
   #### $x('//*[@id="__next"]/form/div/div[1]/a')
   #### //*[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"] 
+  ####  //*[contains(@class, "MuiTypography-root MuiLink-root")]  
 
   
 
