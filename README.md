@@ -1,8 +1,8 @@
 # Content of Project
 
 * [Task 1: Software setup](#Task-1:-Software-setup)
-* [Task 2: Selectors](Task-2:-Selectors)
-
+* [Task 2: Selectors](#Task-2:-Selectors)
+* [Task 4: Refactor debugger test cases](#Task-4:-Refactor_debugger_test_cases)
 
 
 
@@ -56,7 +56,12 @@ Udzielono odpowiedzi dobrze na 6 z 14
   #### //*[@class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary"] 
   ####  //*[contains(@class, "MuiTypography-root MuiLink-root")]  
 
+</details>
   
+## Task 4: Refactor debugger test cases
+<details>
+<summary>Click here to see general information about <b>Task</b>!</summary>
+  
+##   *"Subtask 4 and 5: Writing coding test cases"*
 
-
-
+ #### G-drive link: https://drive.google.com/drive/folders/19CfQxCT4P-HV1o8PTZWXI14wiwHsMESd?hl=pl
