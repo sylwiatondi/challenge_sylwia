@@ -12,7 +12,7 @@ import pages.players
 from utils.settings import DRIVER_PATH, IMPLICITLY_WAIT
 
 
-class TestLoginPage(unittest.TestCase):
+class TestGoToPlayers(unittest.TestCase):
 
     @classmethod
     def setUp(self):
@@ -23,7 +23,7 @@ class TestLoginPage(unittest.TestCase):
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
-    def test_add_a_player_to_database(self):
+    def test_go_to_players(self):
         user_login = LoginPage(self.driver)
         user_login.title_of_page()  # check if the title of the opened page is correct
         user_login.type_in_email('user08@getnada.com')
