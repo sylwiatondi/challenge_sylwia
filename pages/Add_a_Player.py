@@ -17,7 +17,7 @@ class TestAddAPlayer(unittest.TestCase):
         os.chmod(DRIVER_PATH, 755)
         self.driver_service = Service(executable_path=DRIVER_PATH)
         self.driver = webdriver.Chrome(service=self.driver_service)
-        self.driver.get('https://scouts-test.futbolkolektyw.pl/en')
+        self.driver.get('https://dareit.futbolkolektyw.pl/en')
         self.driver.fullscreen_window()
         self.driver.implicitly_wait(IMPLICITLY_WAIT)
 
@@ -74,7 +74,7 @@ class AddAPlayer(BasePage):
     submit_button_xpath = "//button[@type='submit']"
     clear_button_xpath = "//button[@type='submit']//following-sibling::button"
     progres_bar_toaster_xpath = "//*[@role='alert']"
-    add_a_player_url = "https://scouts-test.futbolkolektyw.pl/en/players/add"
+    add_a_player_url = "https://dareit.futbolkolektyw.pl/en/players/add"
     expected_title = 'Add player'
     player_button_xpath = "//button[@type='Players']"
 

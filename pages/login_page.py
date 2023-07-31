@@ -11,11 +11,11 @@ class LoginPage(BasePage):
     login_field_xpath = "//*[@id='login']"
     password_field_xpath = "//*[@id='password']"
     sign_in_button_xpath = "//*[@class='MuiButton-label']"
-    login_url = "https://scouts_test.futbolkolektyw.pl/en"
+    login_url = "https://dareit.futbolkolektyw.pl/en"
     add_a_player_xpath = "//*[text()='Add player']"
     expected_dashboard_title = 'Scouts panel - sign in'
-    dashboard_url = 'https://scouts-test.futbolkolektyw.pl/'
-    sign_out_button_xpath = "//*[text()='Sign out']"
+    dashboard_url = 'https://dareit.futbolkolektyw.pl/en'
+    sign_out_button_xpath = "//*[text()='Logout']"
     remind_password_xpath = "//*[text()='Remind password']"
     remind_email_xpath = "//*[@class='MuiInputBase-input MuiInput-input']"
     send_button_xpath = "//button[@type='submit']"
