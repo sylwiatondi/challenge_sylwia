@@ -3,6 +3,7 @@
 * [Task 1: Software setup](#Task-1:-Software-setup)
 * [Task 2: Selectors](#Task-2:-Selectors)
 * [Task 4: Refactor debugger test cases](#Task-4:-Refactor_debugger_test_cases)
+* [Task 6: Bug reporting / test report](#Task-6:-Bug_reporting_test_report)
 
 
 
@@ -65,3 +66,21 @@ Udzielono odpowiedzi dobrze na 6 z 14
 ##   *"Subtask 4 and 5: Writing coding test cases"*
 
  #### G-drive link: https://drive.google.com/drive/folders/19CfQxCT4P-HV1o8PTZWXI14wiwHsMESd?hl=pl
+ </details>
+
+## Task 6: Bug reporting / test report
+<details>
+<summary>Click here to see general information about <b>Task</b>!</summary>
+  
+##   *"Subtask 5: Bug reporting "*
+
+ #### G-drive link: https://drive.google.com/drive/folders/1Z7ys2AIwCz_AFIbsscc-ZBJdJ4WgkRLR
+
+##   *"Subtask 6: Test report "*
+
+#### G-drive link: https://drive.google.com/drive/folders/12X5JJLnJEbHoNZE6GuE1cH9m9eMaY2Zl
+ 
+ </details>
+
+
+ 
